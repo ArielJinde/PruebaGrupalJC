@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aplicación001</string>
+
+    <string name="textView_titulo">"Ingreso al sistema "</string>
+    <string name="textView_listaPaises">Lista de Paises</string>
+
+
+    <string name="editText_usuario">"Ingrese el usuario "</string>
+    <string name="editText_clave">Ingrese la clave</string>
+
+    <string name="btn_aceptar">Aceptar</string>
+
+    <string name="btn_navegador_web">Navegador</string>
+    <string name="btn_llamar">Llamar</string>
+    <string name="btn_mostrar">Mostrar</string>
+
+    <string name="menu_acercaDe">Acerca De</string>
+    <string name="menu_archivo">Archivo</string>
+        <string name="menu_abrir">Abrir Archivo</string>
+        <string name="menu_nuevo">Nuevo Archivo</string>
+    <string name="menu_editar">Editar</string>
+        <string name="menu_cortar">Cortar</string>
+        <string name="menu_copiar">Copiar</string>
+        <string name="menu_pegar">Pegar</string>
+    <string name="menu_configuracion">Configuración</string>
+</resources>

@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">App_001</string>
+
+    <string name="textView_titulo">System entry</string>
+    <string name="textView_listaPaises">Counries list</string>
+
+    <string name="editText_usuario">Enter user</string>
+    <string name="editText_clave">Enter password</string>
+
+    <string name="btn_aceptar">OK</string>
+
+    <string name="btn_navegador_web">Browser</string>
+    <string name="btn_llamar">Call telephone</string>
+    <string name="btn_mostrar">Show Activity</string>
+
+    <string name="menu_acercaDe">About</string>
+    <string name="menu_archivo">File</string>
+        <string name="menu_abrir">Open File</string>
+        <string name="menu_nuevo">New File</string>
+    <string name="menu_editar">Edit</string>
+        <string name="menu_cortar">Cut</string>
+        <string name="menu_copiar">Copy</string>
+        <string name="menu_pegar">Paste</string>
+    <string name="menu_configuracion">Settings</string>
+</resources>
